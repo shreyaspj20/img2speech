@@ -97,6 +97,9 @@ text,speech = img2speech.image_to_sound("images/image1.png", "ENGLISH", "YES")
 print(text) # prints text extracted by OCR model
 speech.save("output.mp3") # saves the speech output as mp3 file
 ```
+## We have currently hit 1.7k+ package downloads
+
+![image](https://github.com/shreyaspj20/img2speech/assets/56503884/3c271be4-e2e8-464c-9f66-374ca876ba7a)
 
 
 
